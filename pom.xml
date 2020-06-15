@@ -31,7 +31,7 @@
         <javax.persistence-version>1.0.2</javax.persistence-version>
         <org.mockito-version>1.9.0</org.mockito-version>
         <commons.lang-version>2.6</commons.lang-version>
-        <commons.collections-version>3.2.1</commons.collections-version>
+        <commons.collections-version>3.2.2</commons.collections-version>
         <net.coobird.thumbnailator-version>0.4.2</net.coobird.thumbnailator-version>
         <org.powermock-version>1.4.12</org.powermock-version>
         <org.jaspyt-version>1.9.0</org.jaspyt-version>
