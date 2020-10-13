@@ -25,7 +25,7 @@
         <org.thymeleaf-version>2.0.13</org.thymeleaf-version>
         <org.logback-version>1.0.1</org.logback-version>
         <janino-version>2.5.10</janino-version>
-        <junit-version>4.9</junit-version>
+        <junit-version>4.13.1</junit-version>
         <javax.mail-version>1.4.5</javax.mail-version>
         <org.eclipse.persistence-version>2.4.0</org.eclipse.persistence-version>
         <javax.persistence-version>1.0.2</javax.persistence-version>
